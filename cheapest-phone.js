@@ -16,10 +16,11 @@ const phones =[
     {name:'samsung s5',price:45000, camera:10,storage:32},
     {name:'walton m32',price:15000, camera:8, storage:8},
     {name:'mi M3',    price:10000, camera:6,storage:8},
-    {name:'nokia n95', price:8000,camera:6,storage:7}
+    {name:'nokia n95', price:8000,camera:6,storage:7},
+    {name:'symphony ft45',price:5000,camera:'vga',storage:4}
 ];
 
-const myCheepestPhone =cheapestPhone(phones)
-console.log('The cheepest phone is', myCheepestPhone)
+const myCheapestPhone =cheapestPhone(phones)
+console.log('The cheepest phone is', myCheapestPhone)
 
     
