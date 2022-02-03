@@ -21,5 +21,5 @@
 
  } 
 
- const firstOption =woodCalculator(1,0,0)
+ const firstOption =woodCalculator(1,5,3)
  console.log("Total wood will be:",firstOption)
