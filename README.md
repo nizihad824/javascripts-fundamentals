@@ -1,1 +1,2 @@
-# some-javascripts-problems
+# javascripts-fundamentals
+
